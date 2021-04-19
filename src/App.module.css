@@ -1,0 +1,19 @@
+.container {
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  height: 100vh;
+}
+
+.data { 
+  height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  overflow: hidden;
+}
+
+.json {
+  height: 100%;
+  overflow: scroll;
+}

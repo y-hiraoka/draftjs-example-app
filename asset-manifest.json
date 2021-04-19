@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/draftjs-example-app/static/css/main.6af0b5ed.chunk.css",
+    "main.js": "/draftjs-example-app/static/js/main.5d7e3b66.chunk.js",
+    "main.js.map": "/draftjs-example-app/static/js/main.5d7e3b66.chunk.js.map",
+    "runtime-main.js": "/draftjs-example-app/static/js/runtime-main.3cb3e1a2.js",
+    "runtime-main.js.map": "/draftjs-example-app/static/js/runtime-main.3cb3e1a2.js.map",
+    "static/css/2.e426f036.chunk.css": "/draftjs-example-app/static/css/2.e426f036.chunk.css",
+    "static/js/2.3e609573.chunk.js": "/draftjs-example-app/static/js/2.3e609573.chunk.js",
+    "static/js/2.3e609573.chunk.js.map": "/draftjs-example-app/static/js/2.3e609573.chunk.js.map",
+    "static/js/3.530f2c68.chunk.js": "/draftjs-example-app/static/js/3.530f2c68.chunk.js",
+    "static/js/3.530f2c68.chunk.js.map": "/draftjs-example-app/static/js/3.530f2c68.chunk.js.map",
+    "index.html": "/draftjs-example-app/index.html",
+    "static/css/2.e426f036.chunk.css.map": "/draftjs-example-app/static/css/2.e426f036.chunk.css.map",
+    "static/css/main.6af0b5ed.chunk.css.map": "/draftjs-example-app/static/css/main.6af0b5ed.chunk.css.map",
+    "static/js/2.3e609573.chunk.js.LICENSE.txt": "/draftjs-example-app/static/js/2.3e609573.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb3e1a2.js",
+    "static/css/2.e426f036.chunk.css",
+    "static/js/2.3e609573.chunk.js",
+    "static/css/main.6af0b5ed.chunk.css",
+    "static/js/main.5d7e3b66.chunk.js"
+  ]
+}
